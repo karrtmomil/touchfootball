@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playbook>
+	<offense>
+	              <SpreadRtLizSeattle>Long Pass
+	              		<location>xml/offense/pass/SpreadRtLizSeattle.xml</location>
+	              </SpreadRtLizSeattle>
+	              
+	              <DoubleRtRipOrlando>Short Pass
+	              		<location>xml/offense/pass/DoubleRtRipOrlando.xml</location>
+	              </DoubleRtRipOrlando>
+	              <Outside60>run right
+	              		<location>xml/offense/run/outside60.xml</location>
+	              </Outside60>
+	   </offense>
+	   <defense>
+	   		<lbBlitz>LB Blitz
+	   			<location>xml/defense/lbBlitz.xml</location>
+	   		</lbBlitz>
+	   		<ManDefense>Man Defense
+	   			<location>xml/defense/ManDefense.xml</location>
+	   		</ManDefense>
+	   </defense>
+   </playbook>

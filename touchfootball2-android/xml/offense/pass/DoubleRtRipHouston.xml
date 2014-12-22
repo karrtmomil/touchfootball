@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DoubleRtRipHouston>Double Rt Rip Houston
+	<team>OFFENSE</team>>
+	<player>
+		<position>center</position>
+	</player>
+	<player>
+		<position>qb</position>
+	</player>
+	<player>
+		<position>right_guard</position>
+	</player>
+	<player>
+		<position>left_guard</position>
+	</player>
+	<player>
+		<position>left_tackle</position>
+	</player>
+	<player>
+		<position>right_tackle</position>
+	</player>
+	<player>
+		<position>tight_end_right</position>
+	</player>
+	<player>
+		<position>split_left</position>
+		<route></route>
+	</player>
+	<player>
+		<position>slot_left</position>
+	</player>
+	<player>
+		<position>running_back_i</position>
+	</player>
+	<player>
+		<position>flanker_right</position>
+	</player>
+</DoubleRtRipHouston>

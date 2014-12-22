@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SplitRtBase383>Split Rt Base 383
+	<team>OFFENSE</team>
+	<player>
+		<position>center</position>
+	</player>
+	<player>
+		<position>qb</position>
+	</player>
+	<player>
+		<position>right_guard</position>
+	</player>
+	<player>
+		<position>left_guard</position>
+	</player>
+	<player>
+		<position>left_tackle</position>
+	</player>
+	<player>
+		<position>right_tackle</position>
+	</player>
+	<player>
+		<position>tight_end_right</position>
+	</player>
+	<player>
+		<position>split_left</position>
+	</player>
+	<player>
+		<position>full_back_shotgun</position>
+	</player>
+	<player>
+		<position>running_back_shotgun</position>
+	</player>
+	<player>
+		<position>flanker_right</position>
+	</player>
+</SplitRtBase383>

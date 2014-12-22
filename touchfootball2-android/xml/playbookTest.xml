@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playbook>
+	<offence>
+	       <Pass>
+	       			<!-- Quick passes -->
+	              <DoubleRtRipHouston>Double Rt Rip Houston
+	              		<location>xml/offense/pass/DoubleRtRipHouston.xml</location>
+	              </DoubleRtRipHouston>
+	              
+	              <SpreadRtRipHouston>Spread Rt Rip Houston
+	              	<location>xml/offense/pass/SpreadRtRipHouston.xml</location>
+	              </SpreadRtRipHouston>
+	              
+	              <SpreadRtLizSeattle>Spread Rt Liz Seattle
+	              		<location>xml/offense/pass/SpreadRtLizSeattle.xml</location>
+	              </SpreadRtLizSeattle>
+	              
+	              <DoubleRtLizDetroit>DoubleRtLizDetroit
+	              		<location>xml/offense/pass/DoubleRtLizDetroit.xml</location>
+	              </DoubleRtLizDetroit>
+	              
+	              <SpreadRtLizDetroit>Spread Rt Liz Detroit
+	              		<location>xml/offense/pass/SpreadRtLizDetroit.xml</location>
+	              </SpreadRtLizDetroit>
+	              
+	              <DoubleRtRipOrlando>Double Rt Rip Orlando
+	              		<location>xml/offense/pass/DoubleRtRipOrlando.xml</location>
+	              </DoubleRtRipOrlando>
+	              
+	              <SpreadRtRipOrlando>Spread Rt Rip Orlando
+	              		<location>xml/offense/pass/SpreadRtRipOrlando.xml</location>
+	              </SpreadRtRipOrlando>
+	              <!--  End quick passes -->
+	              
+	              
+	              <ChangeRtScat816>Change Rt Scat 816
+	              		<location>xml/offense/pass/ChangeRtScat816.xml</location>
+	              </ChangeRtScat816>
+	              
+	              <SplitRtBase383>Split Rt Base 383
+	              		<location>xml/offense/pass/SplitRtBase383.xml</location>
+	              </SplitRtBase383>
+	              
+	              <SplitRtScatH-Angle>Split Rt Scat H-Angle
+	              		<location>xml/offense/pass/SplitRtScatH-Angle.xml</location>
+	              </SplitRtScatH-Angle>
+	              
+	              <SplitRtBase989>Split Rt Base 989
+	              		<location>xml/offense/pass/SplitRtBase989.xml</location>
+	              </SplitRtBase989>
+	              
+	              <SplitRtBase686>Split Rt Base 686
+	              		<location>xml/offense/pass/SplitRtBase686.xml</location>
+	              </SplitRtBase686>
+	              
+	              <DoubleJetZDrive>Double Jet Z Drive
+	              		<location>xml/offense/pass/DoubleJetZDrive.xml</location>
+	              </DoubleJetZDrive>
+	              
+	              <DoubleRtScatX-Line>Double Rt Scat X-Line
+	              		<location>xml/offense/pass/DoubleRtScatX-Line.xml</location>
+	              </DoubleRtScatX-Line>
+	              
+	              <DoubleLtQkSprint17>Double Lt Qk Sprint Rt 17
+	              		<location>xml/offense/pass/DoubleLtQkSprint17.xml</location>
+	              </DoubleLtQkSprint17>
+	              
+	              <FarLtSlotQkSprint17>Far Lt Slot Qk Sprint 17
+	              		<location>xml/offense/pass/FarLtSlotQkSprint17.xml</location>
+	              </FarLtSlotQkSprint17>
+	              
+	              <SpreadRt70BootZ>Spread Rt 70 Boot Z
+	              		<location>xml/offense/pass/SpreadRt70BootZ.xml</location>
+	              </SpreadRt70BootZ>
+	          </Pass>
+	       <Run>
+	              <Outside60>60 Oustide
+	              		<location>xml/offense/run/outside60.xml</location>
+	              </Outside60>
+	              <Gut20>20 Gut</Gut20>
+	              <Dot40Slide>Dot 40 Slide</Dot40Slide>
+	              <Dot40Lead-0>Dot 40 Lead-0</Dot40Lead-0>
+	              <Dot40Lead-0Keep>Dot 40 Lead-0 Keep</Dot40Lead-0Keep>
+	          </Run>
+	   </offence>
+	   <defense>
+	   		<lbBlitz>LB Blitz
+	   			<location>xml/defense/lbBlitz.xml</location>
+	   		</lbBlitz>
+	   		<deepZone>Deep Zone
+	   			<location>xml/defense/deepZone.xml</location>
+	   		</deepZone>
+	   		<ShallowZone>Shallow Zone
+	   			<location>xml/defense/ShallowZone.xml</location>
+	   		</ShallowZone>
+	   		<ManDefense>Man Defense
+	   			<location>xml/defense/ManDefense.xml</location>
+	   		</ManDefense>
+	   </defense>
+   </playbook>
